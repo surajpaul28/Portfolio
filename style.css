@@ -171,7 +171,7 @@ span{
 /*  <!--skills CSS-->*/
 
 .skills{
-    margin-top: -100px;
+    margin-top: -200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,6 +220,7 @@ span{
 /*  <!--Projects CSS-->*/
 
 .projects{
+    margin-top: -100px;
     display: flex;
     align-items: center;
     justify-content: center;
